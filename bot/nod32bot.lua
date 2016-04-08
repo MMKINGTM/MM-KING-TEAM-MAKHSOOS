@@ -474,6 +474,9 @@ M.M KING TM Anti Spam Bot Commands list :   @MM_king_tm_ch
 !owner
 مدیر گروه
 
+!echo 
+گفتن حرف مورد نظر
+
 !id
 ایدی شخص مورد نظر
 
