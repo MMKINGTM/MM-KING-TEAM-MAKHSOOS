@@ -251,8 +251,8 @@ function create_config( )
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @MM_king_tm_ch
+sodu : @WOLF_BLACK_HAT
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -317,11 +317,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @MM_king_tm_ch
 
 ]],
     help_text = [[
-NOD32 Commands list :
+M.M KING TM Anti Spam Bot Commands list :   @MM_king_tm_ch
  
 1-banhammer list ^
  
@@ -518,7 +518,8 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @MM_king_tm_ch
+به کانال ما حتما سر بزنید 
 
 G00D LUCK ^_^
 ]]
