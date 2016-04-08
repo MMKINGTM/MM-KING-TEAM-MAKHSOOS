@@ -500,10 +500,8 @@ M.M KING TM Anti Spam Bot Commands list :   @MM_king_tm_ch
 !filterlist
 لیست کلمات فیلتر شده
 
-11-bot number & support ^
+11- support 
 
-!botnumber
-دریافت شماره ربات
 
 !support
 دعوت سازنده ربات به گروه
