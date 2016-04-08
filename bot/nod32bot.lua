@@ -510,6 +510,9 @@ M.M KING TM Anti Spam Bot Commands list :   @MM_king_tm_ch
 !version
 ورژن ربات
 
+send (plugin name)
+فرستادن پلاگین مورد نظر
+
 !feedback (text)
 ارسال نظرات به سازنده
 
